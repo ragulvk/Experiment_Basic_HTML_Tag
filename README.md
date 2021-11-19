@@ -16,20 +16,20 @@ Execute the program fff
 # CODE
 ~~~<!DOCTYPE html>
 <html>
-
 <body>
-<h1>Name: Karthi govindharaju</h1>
-<h3>Designation: Assistant Professor (SG) /h3>
-<h5>Dept.:Artificial Intelligence and Data Science</h5>
+<h1>Name: H.Syed Abdul Wasih </h1>
+<h2>Ref. No:21002291 </h2>
+<h3>Dept.:Artificial Intelligence & Machine Learning </h3>
 </body>
-
 </html>
+
 ~~~
 # OUPUT
 <html>
 <body>
-<h1>Name: Karthi govindharaju</h1>
-<h3>Designation: Assistant Professor (SG)</h3>
-<h5>Dept.:Artificial Intelligence and Data Science</h5>
+<h1>Name: H.Syed Abdul Wasih </h1>
+<h2>Ref. No:21002291 </h2>
+<h3>Dept.:Artificial Intelligence & Machine Learning </h3>
 </body>
 </html>
+
